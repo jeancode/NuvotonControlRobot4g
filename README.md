@@ -22,15 +22,23 @@
 ![NA](./n3.PNG)
 
 
-## compile the code and follow the link to find out how to upload the firmware
+### compile the code and follow the link to find out how to upload the firmware
 
 ![NA](./n5.PNG)
 
 [more instructions to upload the code](https://github.com/)
 
 
-## Run the tcp server remember to change the url to your online server
+### Run the tcp server remember to change the url to your online server
 ![NA](./n6.PNG)
+
+
+### Use plaformio to upload the code to esp32
+![NA](./n7.PNG)
+
+### the esp32 arduino code is compatible with Rtduino as well as the 4g connection module
+![NA](./n8.PNG)
+
 
 
 ## 1.installation instructions
