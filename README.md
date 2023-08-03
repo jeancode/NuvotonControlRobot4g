@@ -3,8 +3,8 @@
 ## Sample video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eU1D-Tij6EA/0.jpg)](https://www.youtube.com/watch?v=eU1D-Tij6EA)
 
-## Sample video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eU1D-Tij6EA/0.jpg)](https://www.youtube.com/watch?v=eU1D-Tij6EA)
+## Video of the operation of the robot with touch control
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QvbEQ5q8GA8/0.jpg)](https://www.youtube.com/watch?v=QvbEQ5q8GA8)
 
 
 
