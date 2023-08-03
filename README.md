@@ -1,5 +1,9 @@
 # NK-N9H30
 
+## Sample video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eU1D-Tij6EA/0.jpg)](https://www.youtube.com/watch?v=eU1D-Tij6EA)
+
+## Sample video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eU1D-Tij6EA/0.jpg)](https://www.youtube.com/watch?v=eU1D-Tij6EA)
 
 
