@@ -22,6 +22,12 @@
 ![NA](./n3.PNG)
 
 
+## compile the code and follow the link to find out how to upload the firmware
+
+![NA](./n5.PNG)
+
+[more instructions to upload the code](https://github.com/)
+
 
 
 ## 1.installation instructions
