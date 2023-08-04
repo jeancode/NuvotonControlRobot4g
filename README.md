@@ -26,7 +26,9 @@
 
 ![NA](./n5.PNG)
 
-[more instructions to upload the code]([https://github.com/jeancode/Ovni_NuvotonN9h30]))
+[more information to upload your code to the board](https://github.com/jeancode/Ovni_NuvotonN9h30)
+
+
 
 
 ### Run the tcp server remember to change the url to your online server
